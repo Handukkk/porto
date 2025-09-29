@@ -24,6 +24,16 @@ I am eager to gain hands-on experience, contribute to meaningful projects, and c
 ![GDB](https://img.shields.io/badge/GDB-800000?style=for-the-badge&logo=gnu&logoColor=white)  
 ![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=protonmail&logoColor=white)  
 
+### 🤝 Soft Skills  
+- Teamwork  
+- Communication  
+- Critical Thinking  
+- Fast Learner  
+
+### 🌐 Languages  
+- Bahasa Indonesia (Native)  
+- English
+
 ---
 
 ## 📂 Projects
@@ -62,13 +72,12 @@ Highlights:
 
 I also maintain **security writeups, analysis, and documentation** in my portfolio.  
 You can browse them in the **[Writeups](https://github.com/Handukkk/porto/tree/main/Writeups)** folder.  
-These include capture-the-flag (CTF) challenge solutions, HackTheBox, and VulnHub.  
+These include capture-the-flag (CTF) challenge solutions, HackTheBox, and VulnHub.
 
 ---
 
-## 📞 Contact Me  
-- 📧 Email: **johandvn05@gmail.com**  
-- 📱 Phone/WhatsApp: **088216388947**  
+## 📧 Contact Me  
+- Email: **johandvn05@gmail.com**  
 
 ---
 
