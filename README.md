@@ -78,6 +78,12 @@ These include capture-the-flag (CTF) challenge solutions, HackTheBox, and VulnHu
 
 ## 📧 Contact Me  
 - Email: **johandvn05@gmail.com**  
+- Phone: **+62 88216387639**
+
+---
+
+## CV
+**[CV](https://github.com/Handukkk/porto/blob/main/Johan%20Davin%20Hermawan-CV.pdf)**
 
 ---
 
